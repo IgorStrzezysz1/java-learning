@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Zadanie2 {
+public class Exercise2_user_school_score {
     public static void main(String[] args) {
         String name;
         int score;

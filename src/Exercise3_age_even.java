@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Zadanie3 {
+public class Exercise3_age_even {
 
     public static void main(String[] args) {
 

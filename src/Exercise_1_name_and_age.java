@@ -1,7 +1,6 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class Main {
+public class Exercise_1_name_and_age {
     public static void main(String[] args) {
     String name;
     String surname;

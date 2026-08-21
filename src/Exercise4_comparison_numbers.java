@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Zadanie4 {
+public class Exercise4_comparison_numbers {
     public static void main(String[] args) {
         while (true) {
             System.out.println("Podaj swoje imie: ");
